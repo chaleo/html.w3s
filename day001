@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p><b>This text is bold</b></p>
+<p><i>This text is italic</i></p>
+<p>This is<sub> subscript</sub> and <sup>superscript</sup></p>
+
+<br> <b> - Bold text </b>
+<br><strong> - Important text </strong>
+<br><i> - Italic text </i> 
+<br><em> - Emphasized text </em> 
+<br><mark> - Marked text </mark> 
+<br><small> - Smaller text </small> 
+<br><del> - Deleted text </del> 
+<br><ins> - Inserted text </ins>
+<br><sub> - Subscript text </sub>
+<br><sup> - Superscript text </sup>
+
+</body>
+</html>
